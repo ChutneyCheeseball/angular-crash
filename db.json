@@ -4,7 +4,7 @@
       "id": "1",
       "text": "Buy groceries",
       "day": "May 5th at 2:30 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "2",
@@ -16,12 +16,18 @@
       "id": "3",
       "text": "Submit project report",
       "day": "May 10th at 5:00 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "4",
       "text": "Attend team meeting",
       "day": "May 12th at 2:00 PM",
+      "reminder": true
+    },
+    {
+      "id": "ae2a",
+      "text": "Eat the cheese",
+      "day": "Today at 12:00",
       "reminder": true
     }
   ]
